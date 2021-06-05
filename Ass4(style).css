@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+	background-size: 1400px 650px;
+	background-repeat: no-repeat;
+}
+a
+{
+	
+	border-color:white; 
+	color:White;
+	text-decoration: none;
+	padding: 30px;
+	font-size: 20px;
+}
+th, td{
+	border: 3px solid white;
+	padding: 8px;
+	text-align: center;
+	box-shadow:4px 4px 14px rgb(52, 82, 114);
+}
+table{
+	border-spacing: 20px;
+
+}
+img{
+	height: 350px;
+	width: 350px;
+	text-align: center;
+}
+p{
+	color:cornsilk;
+}
+
+button:hover{
+	background-color:rgba(145, 155, 144, 0.925);
+    cursor: pointer;
+}
